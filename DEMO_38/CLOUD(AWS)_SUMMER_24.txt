@@ -1,2 +1,4 @@
 HELLO!!
 This is Cloud Computing class
+This session is about 'PRACTICAL CLASS OF YESTERDAY'S LAB'.
+DATE-12/01/2024
